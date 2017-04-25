@@ -1,1 +1,1 @@
-1. Back Propagation code for Parity check
+1. Back propagation code for parity check
